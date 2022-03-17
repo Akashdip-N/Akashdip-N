@@ -1,13 +1,23 @@
-<h1 align="center">Hi this is Akashdip Neogi</h1>
-<h3 align="center">A passionate frontend and backend developer</h3>
+<h1 align="center">Hi 👋, I'm Akashdip</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/akashdip_neogi" target="blank"><img src="https://img.shields.io/twitter/follow/akashdip_neogi?logo=twitter&style=for-the-badge" alt="akashdip_neogi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/akashdip.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akashdip.n" height="30" width="40" /></a>
+
+  
+<a href="https://instagram.com/akashdip_neogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akashdip_neogi" height="30" width="40" /></a>
+
 <a href="https://twitter.com/akashdip_neogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashdip_neogi" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/akashdip-neogi-673213191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashdip-neogi-673213191" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Akashdip.N/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akashdip-neogi-673213191" height="30" width="40" /></a>
+  
+<a href="https://kaggle.com/akashdip neogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akashdip neogi" height="30" width="40" /></a>
+
+  
+<a href="https://discord.gg/ADN#1216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ADN#1216" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashdip-n&show_icons=true&locale=en" alt="akashdip-n" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashdip-n&" alt="akashdip-n" /></p>
-
