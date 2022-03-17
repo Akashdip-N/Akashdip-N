@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akashdip</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi this is Akashdip</h1>
+<h3 align="center">A passionate frontend and backend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/akashdip_neogi" target="blank"><img src="https://img.shields.io/twitter/follow/akashdip_neogi?logo=twitter&style=for-the-badge" alt="akashdip_neogi" /></a> </p>
 
