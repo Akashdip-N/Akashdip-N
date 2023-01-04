@@ -29,6 +29,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashdip-n&show_icons=true&locale=en" alt="akashdip-n" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashdip-n&" alt="akashdip-n" /></p>
