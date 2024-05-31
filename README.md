@@ -1,5 +1,5 @@
 <h1 align="center">Hi, this is Akashdip</h1>
-<h3 align="center">A passionate full stack android developer from India</h3>
+<h3 align="center">A passionate AI & ML developer </h3>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
