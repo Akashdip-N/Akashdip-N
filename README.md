@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<p align="left"> <a href="https://twitter.com/akashdip_neogi" target="blank"><img src="https://img.shields.io/twitter/follow/akashdip_neogi?logo=twitter&style=for-the-badge" alt="akashdip_neogi" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
